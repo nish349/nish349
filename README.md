@@ -29,7 +29,7 @@
 - 🚀 **Recent work:** React 16 → 19 upgrades, ECS → EKS migrations, enterprise security tooling (Checkmarx, Datadog, Splunk, Wiz).
 - 📐 **Process:** Agile/Scrum delivery, cross-functional collaboration with DevOps, QA, product, and business stakeholders.
 - 🎯 **Goal:** Build healthcare systems that are observable, secure, and reduce operational friction at scale.
-- 📚 **Currently learning:** System design, GCP certification, LangChain JS, OWASP, Terraform, HL7/FHIR.
+- 📚 **Currently learning:** Google Cyber Security Program, and Morden AI Tools.
 
 ---
 
