@@ -6,7 +6,7 @@
 
 <p align="center">
   Building secure, scalable healthcare applications across full-stack and cloud platforms.<br/>
-  TypeScript · React · Java · PostgreSQL · GCP · AWS<br/>
+  TypeScript · React · Java · PostgreSQL · <br/>
   Based in 🇮🇳 Gurugram — I lead development teams, drive modernization, and ship reliable systems.
 </p>
 
@@ -64,11 +64,6 @@
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=flat&logo=kubernetes&logoColor=white)
 
-### Security & Monitoring
-
-![Checkmarx](https://img.shields.io/badge/Checkmarx-54B848?style=flat&logoColor=white)
-![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=flat&logo=datadog&logoColor=white)
-![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat&logo=splunk&logoColor=white)
 
 ### Tools & Process
 
